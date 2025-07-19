@@ -13,7 +13,7 @@ ACTION REQUIRED:
 
 <!-- The banner image link is a placeholder. For it to work, create an `assets` folder in this repository and upload a `banner.png` file to it. -->
 <p align="center">
-  <img src="image_2222.jpg" alt="Header Banner" />
+  <img src="https://ibb.co/B2ftVvs8" alt="Header Banner" /> 
 </p>
 
 <h1 align="center">
